@@ -7,7 +7,7 @@ module.exports = {
   timezone: "Asia/Dubai",
 
   // "dark" (white text on black) or "light" (black text on white)
-  theme: "dark",
+  theme: "light",
 
   // Kindle Paperwhite 11th gen screen size
   width: 1236,
